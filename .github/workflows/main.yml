@@ -10,7 +10,6 @@ on:
 jobs:
   testing:
     runs-on: ubuntu-latest
-    needs: formatting
     steps:
       - uses: actions/checkout@v1
       
