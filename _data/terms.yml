@@ -76,3 +76,6 @@
 - name: ide
   definition: means 'Integrated development environment,' and combines writing code, building and debugging into a single interface.
   url: https://www.codecademy.com/articles/what-is-an-ide
+- name: tdd
+  definition: means 'test-driven development', which is the idea of writing tests first then writing code that satisfies the tests
+  url: https://en.wikipedia.org/wiki/Test-driven_development
