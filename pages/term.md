@@ -26,7 +26,9 @@ function getUrlVars() {
     });
     return vars;
 }
-var term = getUrlVars()["q"]
+
+var term = getUrlVars()["q"];
+term = decodeURI(term);
 
 if (term in terms) {
   console.log(term)
