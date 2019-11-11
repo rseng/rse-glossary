@@ -1,5 +1,7 @@
 # Research Software Engineer Glossary
 
+[![GitHub actions status](https://github.com/usrse/rse-glossary/workflows/CI/badge.svg?branch=master)](https://github.com/usrse/rse-glossary/actions?query=branch%3Amaster+workflow%3ACI)
+
 ## What is the RSE Glossary?
 
 This is a small, fun project to attempt to distinguish a namespace of common
