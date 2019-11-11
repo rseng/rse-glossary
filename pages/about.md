@@ -13,3 +13,7 @@ engineering, however the overlap isn't perfect, and further, the context
 may be different. There are also likely expressions, conferences, or other
 terminology that are distinct to this space. For this reason, we've 
 established this site of terms to assert these differences.
+
+<br>
+
+<a href="{{ site.repo }}" target="_blank">Contribute</a> on GitHub.
