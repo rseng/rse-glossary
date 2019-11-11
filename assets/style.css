@@ -902,7 +902,7 @@ section {
 .flap {
   width: 270px;
   padding: 15px;
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   height: 100%;
