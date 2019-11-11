@@ -1,0 +1,59 @@
+# --- General options --- #
+
+# Community Name: here you should write the repository name for your community.
+# It should be prefixed with community-<name>. This will deploy to us-rse.org/community-<name>
+baseurl: "/rse-glossary"
+
+# Community Name: (should start with US-RSE <name>
+title: Research Software Engineering Glossary
+
+# Description: Short description of your site
+description: Glossary of Terms for Research Software Engineers
+author: USRSE
+
+# Social Profiles
+
+# Uncomment twitter to have a feed in the right sidebar of latest tweets
+twitter:  us_rse
+github_username:  usrse
+
+# Navigation
+navbar-links:
+  About: "about"
+  Search: "search"
+
+# DO NOT EDIT BELOW THIS LINE ##################################################
+
+logo: "assets/img/logo-transparent.svg"
+
+# Paths
+defaults:
+    -
+        scope:
+            path: "pages"
+            type: pages
+        values:
+            layout: page
+    -
+        scope:
+            path: ""
+            type: posts
+        values:
+            layout: post
+            comments: true
+    -
+        scope:
+            path: "_people"
+            type: people
+        values:
+            layout: person
+
+# Build settings
+permalink   : /:year/:categories/:title/
+exclude: ["_site", "vendor", ".circleci"]
+
+markdown:          kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

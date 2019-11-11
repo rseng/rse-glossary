@@ -1,0 +1,78 @@
+- name: research software engineer
+  definition: Those who regularly use expertise in programming to advance research.
+  url: https://us-rse.org/what-is-an-rse/
+- name: digital humanities
+  definition: computational work and software for traditionally liberal arts oriented domains
+  url: https://en.wikipedia.org/wiki/Digital_humanities
+- name: reproducibility
+  definition: the extent to which a workflow or series of steps can be performed again as originally intended
+  url: https://en.wikipedia.org/wiki/Reproducibility
+- name: sustainability
+  definition: the ability for software, policy, or community to be maintained at a certain rate or level over a long period of time.
+  url: https://en.wikipedia.org/wiki/Sustainability
+- name: cyberinfrastructure
+  definition: research environments that support advanced data services and computing beyond the scope of a single institution.
+  url: https://en.wikipedia.org/wiki/Cyberinfrastructure
+- name: ask-cyberinfrastructure
+  definition: A platform for high performance computing administrators and users to share knowledge and ask questions about cyberinfrastructure, available at ask.ci.
+  url: https://ask.cyberinfrastructure.org/
+- name: exascale
+  definition: a level of supercomputing intended to hit a quintillion calculations per second, and mirror processes in biology, climate, and physics.
+  url: https://www.exascaleproject.org/what-is-exascale/
+- name: containers
+  definition: encapsulated environments and namespaces that provide an abstraction for reproducible analyses and workflows.
+  url: https://en.wikipedia.org/wiki/OS-level_virtualization
+- name: supercomputing (SC)
+  definition: the Supercomputing conference that takes place annually, one of the largest for HPC enthusiasts in the world.
+  url: http://supercomputing.org/
+- name: pearc
+  definition: The Practice and Advanced Experience in Research Computing Conference series (pronounced 'perk').
+  url: https://www.pearc.org/
+- name: version control
+  definition: a system that lets you keep every version of a file, in the case that you need to restore it later. Common version control online services like GitHub or GitLab provide you with a remote repository to interact with using git.
+  url: https://git-scm.com/book/en/v1/Getting-Started
+- name: code reviews
+  definition: the practice of looking over other's code for possible bugs and improvements, and to ensure that work done is in scope with goals for the project. Code reviews are typically done by way of version control platforms when one person wants to merge their changes with the main project branch. This is called a 'pull request' on GitHub.
+  url: https://google.github.io/eng-practices/review/reviewer/
+- name: continuous integration (ci)
+  definition: the process of continually and regularly testing, building, and deploying your code to ensure that bugs don't pop up. You can typically use a CI service integrated with your version control to automate this process. Examples of common CI services include CircleCI, GitHub CI, GitLab CI, Travis CI, and Semaphore.
+  url: https://en.wikipedia.org/wiki/Continuous_integration
+- name: requirements
+  definition: the minimal set of software and library dependencies (and their versions) for a software project.
+  url: https://hackernoon.com/proper-software-requirements-101-32cf87e02a2f
+- name: repository
+  definition: refers to a folder for a software project, commonly with a .git folder for version control
+  url: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories
+- name: pair programming
+  definition: working on a problem with another engineer, with typically one person sitting at the keyboard and the other watching and helping verbally.
+  url: https://en.wikipedia.org/wiki/Pair_programming
+- name: cloud
+  definition: refers to a network of remote servers, databases, and other resources for compute that can be available on demand.
+  url: https://en.wikipedia.org/wiki/Cloud_computing
+- name: api
+  definition: an application programming interface, or a set of functions exposed by a provider for some service.
+  url: https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/
+- name: devops
+  definition: a combination of development and operations that aims to improve communication between traditionall disparate teams. In practice, it means using fast feedback loops to deliver features, fixes, and updates more frequently.
+  url: https://newrelic.com/devops/what-is-devops
+- name: code coverage
+  definition: the percentage of a code base that is tested
+  url: https://en.wikipedia.org/wiki/Code_coverage
+- name: unit testing
+  definition: the practice of testing individual components or functions of a software base
+  url: http://softwaretestingfundamentals.com/unit-testing/
+- name: integration testing
+  definition: combination of functions (software units) to test as groups
+  url: http://softwaretestingfundamentals.com/integration-testing
+- name: regression testing
+  definition: testing to ensure that changes in code don't break previously working functionality
+  url: http://softwaretestingfundamentals.com/regression-testing
+- name: static analysis
+  definition: examining source code for errors before it is run
+  url: https://www.perforce.com/blog/sca/what-static-analysis-static-code-analysis
+- name: linting
+  definition: analysis of source code for formatting and other language conventions. Linters can be run to validate, or can be used to automatically fix the file.
+  url: https://en.wikipedia.org/wiki/Lint_(software)
+- name: ide
+  definition: means 'Integrated development environment,' and combines writing code, building and debugging into a single interface.
+  url: https://www.codecademy.com/articles/what-is-an-ide
