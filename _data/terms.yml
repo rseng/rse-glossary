@@ -79,3 +79,6 @@
 - name: tdd
   definition: means 'test-driven development', which is the idea of writing tests first then writing code that satisfies the tests
   url: https://en.wikipedia.org/wiki/Test-driven_development
+- name: acceptance testing
+  definition: acceptance testing is a test conducted to determine if the requirements of a specification or contract are met. 
+  url: https://en.wikipedia.org/wiki/Acceptance_testing
