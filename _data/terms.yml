@@ -73,6 +73,9 @@
 - name: linting
   definition: analysis of source code for formatting and other language conventions. Linters can be run to validate, or can be used to automatically fix the file.
   url: https://en.wikipedia.org/wiki/Lint_(software)
+- name: pull request
+  definition: putting your money where your mouth is and taking a shot at fixing an issue in a code base, and then opening a request for it's review to merge into the main (usually master) branch
+  url: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
 - name: ide
   definition: means 'Integrated development environment,' and combines writing code, building and debugging into a single interface.
   url: https://www.codecademy.com/articles/what-is-an-ide
