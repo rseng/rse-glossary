@@ -42,12 +42,7 @@ defaults:
         values:
             layout: post
             comments: true
-    -
-        scope:
-            path: "_people"
-            type: people
-        values:
-            layout: person
+
 
 # Build settings
 permalink   : /:year/:categories/:title/
