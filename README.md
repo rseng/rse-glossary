@@ -1,6 +1,7 @@
 # Research Software Engineer Glossary
 
 [![GitHub actions status](https://github.com/rseng/rse-glossary/workflows/CI/badge.svg?branch=master)](https://github.com/rseng/rse-glossary/actions?query=branch%3Amaster+workflow%3ACI)
+[![https://img.shields.io/badge/rseng-project-purple](https://img.shields.io/badge/rseng-project-purple)](https://rseng.github.io/)
 
 ## What is the RSE Glossary?
 
