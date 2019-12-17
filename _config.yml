@@ -9,14 +9,14 @@ title: Research Software Engineering Glossary
 
 # Description: Short description of your site
 description: Glossary of Terms for Research Software Engineers
-author: USRSE
-repo: https://www.github.com/usrse/rse-glossary
+author: rseng
+repo: https://www.github.com/rseng/rse-glossary
 
 # Social Profiles
 
 # Uncomment twitter to have a feed in the right sidebar of latest tweets
 twitter:  us_rse
-github_username:  usrse
+github_username:  rseng
 
 # Navigation
 navbar-links:

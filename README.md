@@ -1,6 +1,6 @@
 # Research Software Engineer Glossary
 
-[![GitHub actions status](https://github.com/usrse/rse-glossary/workflows/CI/badge.svg?branch=master)](https://github.com/usrse/rse-glossary/actions?query=branch%3Amaster+workflow%3ACI)
+[![GitHub actions status](https://github.com/rseng/rse-glossary/workflows/CI/badge.svg?branch=master)](https://github.com/rseng/rse-glossary/actions?query=branch%3Amaster+workflow%3ACI)
 
 ## What is the RSE Glossary?
 
@@ -16,4 +16,4 @@ established this site of terms to assert these differences.
 ## How do I contribute?
 
 You can edit or add a new term by editing the [_data/terms.yml](_data/terms.yml)
-file. If you have any questions, please don't hesitate to [open an issue](https://www.github.com/usrse/rse-glossary/issues).
+file. If you have any questions, please don't hesitate to [open an issue](https://www.github.com/rseng/rse-glossary/issues).
